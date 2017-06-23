@@ -27,8 +27,9 @@ namespace uwp_helloworld
             this.InitializeComponent();
         }
 
-        private void Like_Click(object sender, RoutedEventArgs e)
+        private void Introduce_Click(object sender, RoutedEventArgs e)
         {
+            //Track Event and Properties Here
             var text_introduced = textbox1.Text;
         }
     }
